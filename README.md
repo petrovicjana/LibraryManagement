@@ -6,9 +6,13 @@ It is developed in C++ and allows users to perform basic CRUD (Create, Read, Upd
 
 ### Features
 Create books table: Create the books table with id, title, author, year and genre.
+
 Add Books: Add new books to the inventory.
+
 View Books: Display the list of all books available in the library.
+
 Update Books: Modify the details of existing books.
+
 Delete Books: Remove books from the inventory.
 
 ## File structure
