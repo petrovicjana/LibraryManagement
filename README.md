@@ -20,13 +20,13 @@ LibraryManagementSystem/
 
 ├── SourceFiles/
 
-│   ├── LibraryManagementSystem.cpp   # Main source file
+   ├── LibraryManagementSystem.cpp   # Main source file
 
-│   └── db_operations.cpp             # Database operations implementation
+   └── db_operations.cpp             # Database operations implementation
 
 ├── HeaderFiles/
 
-│   └── db_operations.h               # Header file for database operations
+   └── db_operations.h               # Header file for database operations
 
 
 ## Requirements
