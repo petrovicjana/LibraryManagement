@@ -17,12 +17,17 @@ Delete Books: Remove books from the inventory.
 
 ## File structure
 LibraryManagementSystem/
+
 │
 ├── SourceFiles/
+
 │   ├── LibraryManagementSystem.cpp   # Main source file
+
 │   └── db_operations.cpp             # Database operations implementation
+
 │
 ├── HeaderFiles/
+
 │   └── db_operations.h               # Header file for database operations
 
 
